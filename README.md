@@ -1,5 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=tamba95&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=slateorange" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamba95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamba95&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=slateorange" />
 
 <!--
 **tamba95/tamba95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
