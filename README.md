@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=tamba95&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=midnight-purple&custom_title=Tamba%27s%20GitHub%20Stats" />
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=tamba95&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=midnight-purple&custom_title=Tamba%27s%20GitHub%20Stats" />
 
 
 <!--
